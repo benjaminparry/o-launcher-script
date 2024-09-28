@@ -1,2 +1,2 @@
 # o-launcher-script
-My copy of the o-launcher script for Karabiner Elements.
+My copy of @NylonDiamond’s copy of the o-launcher script for Karabiner Elements.
